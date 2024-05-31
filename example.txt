@@ -1,2 +1,2 @@
-Line 1: Initial content
+Line 1: Initial comment
 Line 2: Initial content
